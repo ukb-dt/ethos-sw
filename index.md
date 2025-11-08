@@ -159,7 +159,7 @@ Hear me out:
 
 - Early on, $\epsilon$ is the "scatter" in $(E, x)$ or $E(t \mid x) + \epsilon$: unexplained variance from a limited viewpoint (the teacher's, Berkeley's Western lens).
 
-- Through derivatives like $\frac{dE_x}{dt}$ and constraints $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\left| \frac{d^2E_x}{dt^2} \right|}$, it's the friction or uncertainty propelling growth—driving him from Mwiri to Berkeley, probing famine through imported models.
+- Through derivatives like $\frac{dE_x}{dt}$ and constraints $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\bigl\mid \frac{d^2 E_x}{dt^2} \bigr\mid}$, it's the friction or uncertainty propelling growth—driving him from Mwiri to Berkeley, probing famine through imported models.
 
 - In integration $\int E_x \, dt + \epsilon_x t + C_x$, $\epsilon_x t$ amplifies over time: what starts as small discrepancies (e.g., studying African hunger in California) compounds into a lifetime's tension.
 

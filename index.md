@@ -18,7 +18,9 @@
 {% endraw %}
 
 
-> *In the mountains the shortest way is from peak to peak, but for that route thou must have long legs. Proverbs should be peaks, and those spoken to should be big and tall.*             
+> *In the mountains the shortest way is from peak to peak,*           
+> *But for that route thou must have long legs.*                         
+> *Proverbs should be peaks, and those spoken to should be big and tall.*                         
 > [--](https://github.com/ukb-dt/ethos-x) [Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) 
 
 

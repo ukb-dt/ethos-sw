@@ -27,7 +27,7 @@ Let’s trace the evolution:
 
 1. **At 13:** only points — $(E, x)$ — raw, unconnected perceptions.
 2. **In youth:** recognition of an emergent slope — $\frac{dE_x}{dt}$ — direction without full control.
-3. **Under constraint:** the modulation — $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\left|\frac{d^2E_x}{dt^2}\right|}$ — the oscillation of effort and uncertainty.
+3. **Under constraint:** the modulation — $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\left \mid \frac{d^2E_x}{dt^2}\right \mid}$ — the oscillation of effort and uncertainty.
 4. **In maturity:** accumulation — $\int E_x, dt + \epsilon_x t + C_x$ — energy integrated into lived experience, offset by constants of temperament.
 
 But late life? That’s no longer the integral of raw experience. It’s the **asymptotic limit** —

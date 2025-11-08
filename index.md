@@ -18,6 +18,10 @@
 {% endraw %}
 
 
+> *In the mountains the shortest way is from peak to peak, but for that route thou must have long legs. Proverbs should be peaks, and those spoken to should be big and tall.*
+> [--](https://github.com/ukb-dt/ethos-x) [Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) 
+
+
 Now: **preface or prologue**? Depends on what you’re trying to frame.
 
 A **preface** is the author’s lens—reflective, explanatory, almost meta. It says, “Here’s how this work came to be, and what it’s reaching for.”

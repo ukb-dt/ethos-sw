@@ -35,7 +35,7 @@ Here’s a draft you might adapt:
 
 ---
 
-## Preface
+## [Preface](https://ukb-dt.github.io/c/)
 
 There are equations that govern the universe, and then there are those that govern memory.
 This work grew out of both.
